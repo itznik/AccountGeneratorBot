@@ -1,4 +1,4 @@
-module github.com/anonyindian/AccountGeneratorBot
+module github.com/Itznik/AccountGeneratorBot
 
 // +heroku goVersion go1.15
 go 1.15
