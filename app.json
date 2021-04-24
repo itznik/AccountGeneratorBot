@@ -6,9 +6,9 @@
         "telethon",
         "telegram-bot"
     ],
-  "repository": "https://github.com/anonyindian/AccountGeneratorBot",
-  "website": "https://t.me/xnony",
-  "success_url": "https://t.me/StarDevs",
+  "repository": "https://github.com/Itznik/AccountGeneratorBot",
+  "website": "https://t.me/itznik_x",
+  "success_url": "https://t.me/itznik_x",
   "env": {
     "TOKEN": {
       "description": "Bot Token, Get It From @BotFather.",
